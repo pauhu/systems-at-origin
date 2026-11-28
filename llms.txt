@@ -2,7 +2,7 @@
 
 > Client for reading records from a granted local database without modifying it; plans and receipts come from the Pauhu demo backend. Reading is free; backend access requires a free Pauhu developer key.
 
-- [Developer key](https://pauhu.dev/developer-terms/): free, 90 days, 50 requests a day, at most 5 a minute
+- [Developer key](https://api.pauhu.ai/v1/dev/github/start): sign in with GitHub; free, 90 days, 50 requests a day, at most 5 a minute
 - [AGENTS.md](AGENTS.md): instructions for AI agents
 - [server.json](server.json): MCP remote server
 - [Skill](skills/pauhu-developer-key/SKILL.md)
