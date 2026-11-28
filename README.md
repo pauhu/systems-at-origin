@@ -1,4 +1,4 @@
-# Pauhu client
+# Pauhu Database Client
 
 Client for reading records from a granted local database without modifying it; plans and receipts come from the Pauhu demo backend.
 
@@ -8,3 +8,5 @@ Client for reading records from a granted local database without modifying it; p
 - MCP clients: [server.json](server.json) (remote, header `Authorization: Bearer <key>`).
 
 Status: proposed. Licence: Apache-2.0.
+
+Copyright © 2026 Pauhu Ltd. Written and maintained by Pauhu Ltd.
